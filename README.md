@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
-- 🌎 Fluent in **Ukranian** 📖, and refining my **English** skills every day 
+- 🌎 Fluent in **Ukranian** 📖, Upper-Intermediate in **English** and refining my skills every day 
 
 
 <br>
@@ -36,7 +36,7 @@
 ## 🚀 Future Goals:
 
 - 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 📚 Study the fundamentals of a**Back-End development** to became a full-stack developer.
+- 📚 Study the fundamentals of a **Back-End development** to became a full-stack developer.
 - 🖥 Build a project that demonstrates my **Back-End** knowledge.
 
 ## 📈 Achievements

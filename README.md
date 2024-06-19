@@ -25,3 +25,23 @@
 
 <br>
 <br>
+
+
+## 🏆 Goals:
+
+- 🚀 Learn **Angular** framework and **Node.js**.
+- 🌐 Improve my knowledge of the Typescript and include it in the development of my projects.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+## 🚀 Future Goals:
+
+- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
+- 📚 Study the fundamentals of a**Back-End development** to became a full-stack developer.
+- 🖥 Build a project that demonstrates my **Back-End** knowledge.
+
+## 📈 Achievements
+
+- 🎉 I have successfully completed over 10 projects on Frontend Mentor and shared my code with others.
+- 🤝 I have provided feedback on projects on the Frontend Mentor website.
+
+

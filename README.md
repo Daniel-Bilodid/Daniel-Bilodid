@@ -14,7 +14,7 @@
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Daniel-Bilodid)!.
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen skills on [**CodeWars**](https://www.codewars.com/users/Daniel%20Bilodid)
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my skills [**CodeWars**](https://www.codewars.com/users/Daniel%20Bilodid)
 
 - 📫 How to reach me: **danielbeloded@gmail.com**.
 
